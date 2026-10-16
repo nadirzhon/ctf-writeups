@@ -42,3 +42,7 @@ linpeas.sh | tee linpeas.out
 | HTB | Mirai | Easy | Default Pi-hole creds |
 | THM | Mr. Robot | Medium | WP brute-force, SUID nmap |
 | THM | Steel Mountain | Medium | HFS exploit, PowerShell privesc |
+
+## License
+
+[MIT](LICENSE)
